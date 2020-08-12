@@ -44,6 +44,9 @@ public class JedisTest {
         //3.关闭连接
         jedis.close();
 
+        //测试git分支
+        System.out.println("git branch");
+
     }
 
 }
